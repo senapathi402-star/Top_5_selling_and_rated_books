@@ -28,6 +28,8 @@ Amazon wants to find the **Top 5 Selling Books** and **Top 5 Rated Books** in In
 
 ## 🏆 Top 5 Selling Books (by sales rank)
 
+![Top 5 Selling Books](top5_selling.png)
+
 | # | Book Name | Author | Rating | Price |
 |---|---|---|---|---|
 | 1 | Maths Concept King All Formulas and Theorem | Gagan Pratap Sir | 4.7 | ₹239 |
@@ -39,6 +41,8 @@ Amazon wants to find the **Top 5 Selling Books** and **Top 5 Rated Books** in In
 ---
 
 ## ⭐ Top 5 Rated Books (after removing duplicates)
+
+![Top 5 Rated Books](top5_rated.png)
 
 | # | Book Name | Author | Rating | Price |
 |---|---|---|---|---|
@@ -78,6 +82,8 @@ Amazon wants to find the **Top 5 Selling Books** and **Top 5 Rated Books** in In
 |------|-------------|
 | `Top_5_selling_and_rated_books.ipynb` | Jupyter Notebook with full analysis |
 | `BestSeller Books of Amazon.csv` | Amazon India bestseller books dataset |
+| `top5_selling.png` | Screenshot — Top 5 Selling Books output |
+| `top5_rated.png` | Screenshot — Top 5 Rated Books output |
 | `README.md` | Project documentation |
 
 ---
