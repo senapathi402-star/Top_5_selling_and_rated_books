@@ -28,7 +28,7 @@ Amazon wants to find the **Top 5 Selling Books** and **Top 5 Rated Books** in In
 
 ## 🏆 Top 5 Selling Books (by sales rank)
 
-<img width="684" height="200" alt="image" src="https://github.com/user-attachments/assets/57ae34cd-ca21-4098-8869-7f39317e9e40" />
+<img width="684" height="200" alt="image" src="https://github.com/user-attachments/assets/57ae34cd-ca21-4098-8869-7f39317e9e40" //>
 
 | # | Book Name | Author | Rating | Price |
 |---|---|---|---|---|
